@@ -5,7 +5,7 @@ Soy un estudiante de ingeniería en Ciencias de la Computación de tercer año d
 
 [<p align="center"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleg001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleg001/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aleg_001/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCLxEACPecpitk-njq8CyBEg) 
 
-## Habilidades
+## Lenguajes
 * 🐍 Python
 * ☕️ Java
 * 🧑🏽‍💻 JS
