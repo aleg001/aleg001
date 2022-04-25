@@ -13,10 +13,10 @@ Soy un estudiante de ingeniería en Ciencias de la Computación de tercer año d
 * 🕸 CSS
 * C
 * C++
+* Vue.JS
+* React
 ----------------------------
-- 🌱 Estoy aprendiendo Swift y UI/UX 
-- 📫 Cómo contactarme: alejandrogomez294@gmail.com 
-- 😄 Pronombres: él 
+- 📫 Cómo contactarme: gom20347@uvg.edu.gt 
 
  
 
