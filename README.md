@@ -9,18 +9,16 @@ Los lenguajes y frameworks en los que principalmente desarrollo son:
 - Typescript
 
 Adicional a la programación, me gusta mucho el tema del audio y producción musical, siendo el piano mi instrumento principal.
+He colaborado en el proyecto [Open Source de Vuetify](https://github.com/vuetifyjs/vuetify/blob/next/packages/api-generator/src/locale/en/v-text-field.json)
 
 
-[<p align="center"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleg001)  [<p align="center"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleg001/)  
+ [<p align="center"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleg001/)  
 
 
 ----------------------------
 - 📫 Cómo contactarme: gom20347@uvg.edu.gt 
 
  
-
-
-
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleg001&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleg001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
