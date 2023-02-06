@@ -9,7 +9,7 @@ Los lenguajes y frameworks en los que principalmente desarrollo son:
 - Typescript
 
 Adicional a la programación, me gusta mucho el tema del audio y producción musical, siendo el piano mi instrumento principal.
-He colaborado en el proyecto [Open Source de Vuetify](https://github.com/vuetifyjs/vuetify/blob/next/packages/api-generator/src/locale/en/v-text-field.json)
+He colaborado en el proyecto [Open Source de Vuetify](https://github.com/vuetifyjs/vuetify/blob/master/packages/api-generator/src/locale/en/v-text-field.json)
 
 
  [<p align="center"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleg001/)  
