@@ -4,9 +4,15 @@
 Soy un estudiante de ingeniería en Ciencias de la Computación de Cuarto año de la Universidad del Valle de Guatemala. Disfruto bastante aprender nuevos lenguajes de programación y mejorar mis habilidades en los lenguajes que ya conozco. 
 
 Los lenguajes y frameworks en los que principalmente desarrollo son:
-- Vue JS
-- Python
-- Typescript
+* Vue
+  - Vuetify
+  - Quasar
+  - Vuestic
+* Python
+* Typescript
+* R
+
+
 
 Adicional a la programación, me gusta mucho el tema del audio y producción musical, siendo el piano mi instrumento principal.
 He colaborado en el proyecto [Open Source de Vuetify](https://github.com/vuetifyjs/vuetify/blob/master/packages/api-generator/src/locale/en/v-text-field.json)
